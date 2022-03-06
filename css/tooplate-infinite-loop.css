@@ -299,12 +299,12 @@ blockquote {
 }
 
 .tm-testimonials-carousel {
-  max-width: 1200px;
+  max-width: 1380px;
   margin: 0 auto;
 }
 
 .tm-testimonial-item {
-  max-width: 400px;
+  max-width: 480px;
   margin-left: 35px;
   margin-right: 35px;
 }
