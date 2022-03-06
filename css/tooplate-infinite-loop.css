@@ -299,12 +299,12 @@ blockquote {
 }
 
 .tm-testimonials-carousel {
-  max-width: 1050px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 
 .tm-testimonial-item {
-  max-width: 290px;
+  max-width: 400px;
   margin-left: 35px;
   margin-right: 35px;
 }
@@ -318,6 +318,7 @@ blockquote {
   text-align: right;
   font-style: italic;
   font-size: 1.1rem;
+  
 }
 
 /* Publications */
@@ -778,3 +779,24 @@ div.circle-avatar{
   right: 0;
   bottom: 0;
   }
+  
+.white_bg 
+{
+    background-color: #1d1818;
+    padding: 3px; /*add this if you want a bit of space around the text*/
+}
+
+.textbox_colored {
+  /* margin: 20px; */
+  
+  background: rgb(10, 10, 10);
+  
+  padding: 20px;
+  opacity:70% ;
+  color: white;
+  border-radius: 8px;
+  /* line-height: 18px;
+  height: 18px;
+  font-size: 18px; */
+}
+
